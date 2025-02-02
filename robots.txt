@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shuvamgupta123.github.io/drc-services/sitemap.xml
